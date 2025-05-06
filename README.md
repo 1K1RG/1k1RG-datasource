@@ -2,7 +2,7 @@
 
 Welcome to the **SNPSeek Backend** repository! This repository contains the backend services and infrastructure that support the **SNPSeek** project. The backend handles data processing, storage, and serves as the backbone for SNP data analysis and visualization.
 
-The backend focuses on efficiently processing large SNP datasets, storing them in a relational database, and providing API endpoints for data access, transformation, and visualization. It ensures that users can seamlessly interact with SNP data through APIs and makes the project scalable and extensible for future integrations.
+The backend focuses on efficiently retrieving large SNP datasets from a relational database and providing API endpoints for data access, transformation, and visualization. It ensures that users can seamlessly interact with SNP data through APIs and is designed to be scalable and extensible for future integrations.
 
 ## 🧬 Project Overview
 
