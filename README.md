@@ -12,6 +12,6 @@ The SNPSeek backend provides:
 - **Scalability**: Ensuring the backend is able to handle large datasets, making it suitable for high-volume SNP analysis.
 
 ### Key Features:
-- **Database Interaction**: Scripts for storing and querying SNP data from the database.
+- **Database Interaction**: Scripts querying SNP data from the database.
 - **Data Transformation**: Preprocessing and transformation of SNP data into usable formats for analysis and visualization.
 - **API Endpoints**: Provides access to SNP data, metadata, and processing results.
